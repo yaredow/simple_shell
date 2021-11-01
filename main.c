@@ -124,7 +124,7 @@ if (ret == END_OF_FILE)
 write(STDOUT_FILENO, new_line, 1);
 free_env();
 free_alias_list(aliases);
-exit(*exe_ret)
+exit(*exe_ret);
 }
 }
 
