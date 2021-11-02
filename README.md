@@ -8,7 +8,7 @@ To invoke **Simple_shell**, compile all `.c` files in the repository and run the
 ```
 gcc *.c -o filename
 ```
-**Simple_shell** can be invoked both interactively and non-interactively. If **shellby** is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
+**Simple_shell** can be invoked both interactively and non-interactively. If **Simple_shell** is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
 
 Example:
 ```
@@ -17,7 +17,7 @@ $ echo "echo 'hello'" | ./filename
 $
 ```
 ## Authors :black_nib:
-* Yared Yilma <[yaredow](https://github.com/yaredow)
-* Yohaness Leul <[yohannesleul24](https://github.com/yohannesleul24)
+* Yared Yilma ![yaredow](https://github.com/yaredow)
+* Yohaness Leul ![yohannesleul24](https://github.com/yohannesleul24)
 
 
